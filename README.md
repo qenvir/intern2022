@@ -2,13 +2,13 @@
 
 _Jeu de serpent en python avec l'implémentation de arduino pour le déplacement sur la carte avec un joystick_
 
-## Instructions:
+## Informations:
 
 ### Arduino (arduino.ino) :
 
 * L'axe X du joystick doit être situé sur le port A5
 * L'axe Y du joystick doit être situé sur le port A6
-* Le relay doit être placé sur le port A4
+* Le relais doit être placé sur le port A4. (Non obligatoire, il ne sers à rien dans le code du snake mais peut servir pour l'implémentation de divers modules pour rendre le jeu meilleur ou plus comprehensible avec des bruits lors de déclanchements d'objets dans le jeu, libres à vous de rajouter ce que vous voulez)
 
 * Le débit sur Serial est de 57600 bps
 * Vous devez donc calibrer votre console à 57600 bps pour pouvoir lire le contenu du Serial
@@ -17,4 +17,9 @@ _Jeu de serpent en python avec l'implémentation de arduino pour le déplacement
 
 ### Python (main.py) :
 
-* Le nom du port de base est "COM5". Ce paramètre est à modifier selon le port que l'on veut
+* Le nom du port dans le fichier par défaut est "COM5". Ce paramètre est à modifier selon le port que l'on veut
+
+## Installation :
+
+### Arduino (arduino.ino) :
+
