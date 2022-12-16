@@ -42,7 +42,7 @@ Si vous souhaitez savoir si votre code est correctement en route:
   3. `9600 baud>57600 baud`
 
 
-* Le console doit afficher l'une de ces quatre varientes:
+* Le console doit afficher l'une de ces cinq varientes:
 
   ```
   0,0
