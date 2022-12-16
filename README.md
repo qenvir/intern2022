@@ -1,6 +1,8 @@
+#Python Snake Arduino Game
+
 ## Instructions:
 
-# Arduino (arduino.ino) :
+### Arduino (arduino.ino) :
 
 L'axe X du joystick doit être situé sur le port A5
 L'axe Y du joystick doit être situé sur le port A6
@@ -11,7 +13,7 @@ Vous devez donc calibrer votre console à 57600 bps pour pouvoir lire le contenu
 
 (Cela reste quand même à tout moment modifiable dans le code arduino.ino)
 
-# Python (main.py) :
+### Python (main.py) :
 
 Le nom du port qui est lu est le port "COM5"
 Ceci est à modifier sur la ligne 5 par le port qu'on a
