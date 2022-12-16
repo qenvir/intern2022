@@ -23,3 +23,22 @@ _Jeu de serpent en python avec l'implémentation de arduino pour le déplacement
 
 ### Arduino (arduino.ino) :
 
+
+
+
+### Python (main.py) :
+
+##Fin / Ajout de votre code:
+
+Vous souhaitez ajouter votre code pour que le prochain ne repart pas de ce code mais bien du votre ?
+C'est bien simple, suivez le petit tutoriel présent si-dessous
+
+### Comment ?
+
+#### Première façon
+
+Demandez à votre tuteur d'ajouter une branche à cette repository et déposez-y votre code, les prochains pourront changer de branche et aller voir toutes les choses qui ont été résalisés après ce code de base
+
+#### Deuxième façon
+
+La deuxième façon est de bien de recréer votre propre repository sur le gitlab de Qenvi ou sur le site officiel de Github en écrivant une rapide documentation sur votre code, vous pouvez biensûr vous baser sur ce tutoriel et ajouter ce que vous avez fais au code à partir du moment ou vous l'avez téléchargé. Merci de bien garder documenté tout ce que vous avez fait pour les prochain comme cela a été fais pour vous
