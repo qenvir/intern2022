@@ -27,7 +27,7 @@ Arduino
 
 * Ouvrez ce dossier et ouvrez le fichier `arduino.ino`
 
-* Dans l'Arduino IDE, regardez que ce sois le bon code puis téléversez le code sur la carte Arduino avec le bouton présent en haut à gauche représenté par une flèche
+* Dans l'Arduino IDE, vérifiez que ce sois le bon code puis téléversez le code sur la carte Arduino avec le bouton présent en haut à gauche représenté par une flèche
 
 C'est fini du côté de Arduino, le code est prêt pour être lu par Python
 
@@ -50,7 +50,7 @@ Si vous souhaitez savoir si votre code est correctement en route:
 
 ## Python (main.py) :
 
-Python
+* Installez le fichier `main.py` et mettez le dans un dossier présent sur le bureau.
 
 # Fin / Ajout de votre code:
 
@@ -59,10 +59,10 @@ C'est bien simple, suivez le petit tutoriel présent si-dessous
 
 ## Comment ?
 
-* Première façon
+* **Première façon**
 
 Demandez à votre tuteur d'ajouter une branche à cette repository et déposez-y votre code, les prochains pourront changer de branche et aller voir toutes les choses qui ont été résalisés à partir ce code de base
 
-* Deuxième façon
+* **Deuxième façon**
 
 La deuxième façon est de créer votre repository sur le gitlab de Qenvi ou sur le site officiel de Github en écrivant une rapide documentation sur votre code, vous pouvez biensûr vous baser sur ce tutoriel et ajouter ce que vous avez fait au code à partir du moment ou vous l'avez téléchargé.
