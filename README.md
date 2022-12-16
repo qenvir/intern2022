@@ -27,7 +27,10 @@ Arduino
 
 * Ouvrez ce dossier et ouvrez le fichier `arduino.ino`
 
-* Branchements (à voir dans les [instructions](https://www.qenvilab.space/makar/pythonsnakegame/-/tree/master#arduino-arduinoino-"))
+* Brancher le joystick sur les bonnes cases
+    1. Brancher le G du joystick sur le GND de la carte Arduino
+    2. Brancher le V du joystick sur le 5V de la carte Arduino
+    1. Brancher le X et le Y du joysyick (à voir dans les `informations`)
 
 * Dans l'Arduino IDE, vérifiez que ce sois le bon code puis téléversez le code sur la carte Arduino avec le bouton présent en haut à gauche représenté par une flèche
 
