@@ -23,6 +23,12 @@ _Jeu de serpent en python avec l'implémentation de arduino pour le déplacement
 
 Arduino
 
+* Installez le fichier `arduino.ino` et mettez le dans un dossier présent sur le bureau.
+
+* Ouvrez ce dossier et ouvrez le fichier `arduino.ino`
+
+* Dans l'Arduino IDE, regardez que ce sois le bon code puis téléversez le code sur la carte Arduino avec le bouton présent en haut à gauche représenté par une flèche
+
 C'est fini du côté de Arduino, le code est prêt pour être lu par Python
 
 Si vous souhaitez savoir si votre code est correctement en route:
@@ -31,6 +37,7 @@ Si vous souhaitez savoir si votre code est correctement en route:
   1. `Tools>SerialMonitor`
   2. `Sélectionner le bps`
   3. `9600 baud>57600 baud`
+
 
 * Le code sortant doit être comme celui-ci:
   ```
