@@ -19,7 +19,8 @@ _Jeu de serpent en python avec l'implémentation de arduino pour le déplacement
 
 ### Python (main.py) :
 
-* Le nom du port dans le fichier par défaut est "COM5". Ce paramètre est à modifier selon le port que l'on veut
+* Le nom du port dans le fichier par défaut est "COM5". Ce paramètre est à modifier.
+* Pour quitter la fenêtre, il surffit d'appuyer sur échap.
 
 ## Installation :
 
@@ -38,10 +39,10 @@ C'est bien simple, suivez le petit tutoriel présent si-dessous
 
 ### Comment ?
 
-* Première façon
+#### Première façon
 
 Demandez à votre tuteur d'ajouter une branche à cette repository et déposez-y votre code, les prochains pourront changer de branche et aller voir toutes les choses qui ont été résalisés à partir ce code de base
 
-*  Deuxième façon
+#### Deuxième façon
 
 La deuxième façon est de créer votre repository sur le gitlab de Qenvi ou sur le site officiel de Github en écrivant une rapide documentation sur votre code, vous pouvez biensûr vous baser sur ce tutoriel et ajouter ce que vous avez fait au code à partir du moment ou vous l'avez téléchargé.
