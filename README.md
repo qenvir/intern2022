@@ -27,6 +27,8 @@ Arduino
 
 * Ouvrez ce dossier et ouvrez le fichier `arduino.ino`
 
+* Branchements (à voir dans les [instructions](https://www.qenvilab.space/makar/pythonsnakegame/-/tree/master#arduino-arduinoino-"))
+
 * Dans l'Arduino IDE, vérifiez que ce sois le bon code puis téléversez le code sur la carte Arduino avec le bouton présent en haut à gauche représenté par une flèche
 
 C'est fini du côté de Arduino, le code est prêt pour être lu par Python
