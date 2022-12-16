@@ -73,7 +73,7 @@ Si vous souhaitez savoir si votre code est correctement en route:
 * Principe
 
 
-Le principe du jeu est le même que celui du très connu, snake
+Le principe du jeu est le même que celui du très connu snake
 
 * Comment jouer
 
