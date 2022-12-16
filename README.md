@@ -42,7 +42,8 @@ Si vous souhaitez savoir si votre code est correctement en route:
   3. `9600 baud>57600 baud`
 
 
-* Le code sortant doit être comme celui-ci:
+* Le console doit afficher l'une de ces quatre varientes:
+
   ```
   0,0
   1,0
