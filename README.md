@@ -70,12 +70,12 @@ Si vous souhaitez savoir si votre code est correctement en route:
 
 # Jouer ?
 
-## Principe
+* Principe
 
 
 Le principe du jeu est le même que celui du très connu, snake
 
-## Comment jouer
+* Comment jouer
 
 Pour jouer il suffit de prendre le joystick avec les câbles vers le bas et de simplement tourner dans le sens que l'on veut pour se déplacer. Attention, lors de la mort de votre serpent le programme va automatiquement se fermer et vous devez le rouvrir pour recommencer le jeu.
 
