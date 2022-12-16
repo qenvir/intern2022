@@ -12,7 +12,7 @@ _Jeu de serpent en python avec l'implémentation de arduino pour le déplacement
 
 * Le débit sur Serial est de 57600 bps. Vous devez donc calibrer votre console à 57600 bps pour pouvoir lire le contenu du Serial
   1. `Tools>SerialMonitor`
-  2. Sélectionner le bps
+  2. `Sélectionner le bps`
   3. `9600 baud>57600 baud`
 
 (Cela reste quand même modifiable à tout moment dans le fichier `arduino.ino`)
