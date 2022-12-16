@@ -70,7 +70,7 @@ Le principe du jeu est le même que celui du très connu, snake
 
 ## Comment jouer
 
-Pour jouer il suffit de prendre le joystick avec les cables vers le bas et de simplement tourner dans le sens que l'on veut pour se déplacer. Attention, lors de la mort de votre serpens le programme va automatiquement se fermer et vous devez le reouvrir pour recommencer le jeu.
+Pour jouer il suffit de prendre le joystick avec les cables vers le bas et de simplement tourner dans le sens que l'on veut pour se déplacer. Attention, lors de la mort de votre serpent le programme va automatiquement se fermer et vous devez le reouvrir pour recommencer le jeu.
 
 # Fin / Ajout de votre code:
 
