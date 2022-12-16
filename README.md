@@ -55,7 +55,22 @@ Si vous souhaitez savoir si votre code est correctement en route:
 
 * Installez le fichier `main.py` et mettez le dans un dossier présent sur le bureau.
 
+* Ouvrir le fichier `main.py` avec PyCharm disponible sur le bureau de l'ordinateur.
 
+* Changer le port "COM5" sur la ligne 14 et le baudrate si vous l'aviez changé auparavant dans le code de l'Arduino
+
+* Lancer le code en appuyant sur le triangle vert en haut à droite
+
+# Jouer ?
+
+## Principe
+
+
+Le principe du jeu est le même que celui du très connu, snake
+
+## Comment jouer
+
+Pour jouer il suffit de prendre le joystick avec les cables vers le bas et de simplement tourner dans le sens que l'on veut pour se déplacer. Attention, lors de la mort de votre serpens le programme va automatiquement se fermer et vous devez le reouvrir pour recommencer le jeu.
 
 # Fin / Ajout de votre code:
 
