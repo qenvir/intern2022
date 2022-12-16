@@ -79,6 +79,21 @@ Le principe du jeu est le même que celui du très connu, snake
 
 Pour jouer il suffit de prendre le joystick avec les cables vers le bas et de simplement tourner dans le sens que l'on veut pour se déplacer. Attention, lors de la mort de votre serpent le programme va automatiquement se fermer et vous devez le reouvrir pour recommencer le jeu.
 
+#Idées
+
+##Facile: Ecran de mort
+
+Lorsque le serpent meurt, un écran de mort s'affiche et permet de relancer le jeu à zero lorsqu'on appui sur une touche
+
+##Intermédiaire: Menu de démarrage
+
+Lorqu'on lance le programme, on peut choisir quelques paramètres (couleur du serpent, vitesse, mode de jeu, nombre de pommes, couleure de la pomme...)
+
+##Expert: Super-pouvoirs
+
+En partie, il y a une petite chance que un super-pouvoir d'une couleur qui défile apparaisse et donne un pouvoir d'invicibilité ou de vitesse au serpent pendant un temps donné
+
+
 # Fin / Ajout de votre code:
 
 Vous souhaitez ajouter votre code pour que le prochain ne repart pas de ce code mais bien du votre ?
