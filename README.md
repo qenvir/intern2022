@@ -93,7 +93,6 @@ Lorqu'on lance le programme, on peut choisir quelques paramètres (couleur du se
 
 En partie, il y a une petite chance que un super-pouvoir d'une couleur qui défile apparaisse et donne un pouvoir d'invicibilité ou de vitesse au serpent pendant un temps donné
 
-
 # Fin / Ajout de votre code:
 
 Vous souhaitez ajouter votre code pour que le prochain ne repart pas de ce code mais bien du votre ?
