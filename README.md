@@ -15,7 +15,7 @@ _Jeu de serpent en python avec l'implémentation de arduino pour le déplacement
   2. `Sélectionner le bps`
   3. `9600 baud>57600 baud`
 
-(Cela reste quand même modifiable à tout moment dans le fichier `arduino.ino`)
+(Le tout reste quand même modifiable à tout moment dans le fichier `arduino.ino`)
 
 ### Python (main.py) :
 
