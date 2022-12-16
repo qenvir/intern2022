@@ -13,7 +13,6 @@ from tkinter import Tk, Label
 
 msg_port_serie = serial.Serial(port='COM5', baudrate=57600, timeout=1.0)
 
-
 class MyWindow(Tk):
 
     def __init__(self):
@@ -148,8 +147,6 @@ class MyWindow(Tk):
             string = string.split(",")
             lectureX = int(string[0])
             lectureY = int(string[1])
-            # self.x = (self.x + lectureX)%13
-            # self.y = (self.y + lectureY)%13
 
             facing = None
             if lectureY == -1:
@@ -207,11 +204,9 @@ class MyWindow(Tk):
                 print(self.dernieresCases[0][0])
                 print(self.dernieresCases[0][1])
 
-                self.dernieresCases.remove(self.dernieresCases[0])  # [0], self.dernieresCases[-1][1]))
+                self.dernieresCases.remove(self.dernieresCases[0])
 
             self.dernieresCases.append((self.x, self.y))
-
-            # if len(self.dernieresCases) > 0:
             for i in range(0, len(self.dernieresCases)):
                 bb = Label(self, text=" ", **self.red_button_dict)
                 bb.grid(column=self.dernieresCases[i][0], row=self.dernieresCases[i][1], **self.grid_dict)
@@ -227,7 +222,6 @@ class MyWindow(Tk):
                     listY.append(self.dernieresCases[i][1])
 
                 while (self.greenx, self.greeny) in self.dernieresCases:
-                    # ²while self.greenx in listX and self.greeny in listY:
                     self.greenx = random.choice(range(0, 13))
                     self.greeny = random.choice(range(0, 13))
 
@@ -243,7 +237,7 @@ class MyWindow(Tk):
                     self.prey = self.y
 
         self.update()
-        window.after(5, self.monTimer)
+        window.after(10, self.monTimer)
 
 
 window = MyWindow()
