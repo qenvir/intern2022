@@ -1,3 +1,12 @@
+'''
+
+Copyright (c) 2022 and later Qenvi.
+Developed by Qenvi and affiliates which hold all
+intellectual property rights. Use of this software is subject
+to a specific license granted by Qenvi.
+
+'''
+
 import serial
 import random
 from tkinter import Tk, Label
