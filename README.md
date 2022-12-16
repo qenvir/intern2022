@@ -25,7 +25,7 @@ _Jeu de serpent en python avec l'implémentation de arduino pour le déplacement
 
 * Ouvrez ce dossier et ouvrez le fichier `arduino.ino`
 
-* Brancher le joystick sur les bonnes cases
+* Branchez le joystick sur les bonnes cases
     1. Brancher le G du joystick sur le GND de la carte Arduino
     2. Brancher le V du joystick sur le 5V de la carte Arduino
     1. Brancher le X et le Y du joysyick (à voir dans les `informations`)
@@ -55,11 +55,17 @@ Si vous souhaitez savoir si votre code est correctement en route:
 
 * Installez le fichier `main.py` et mettez le dans un dossier présent sur le bureau.
 
-* Ouvrir le fichier `main.py` avec PyCharm disponible sur le bureau de l'ordinateur.
+* Ouvrez le fichier `main.py` avec PyCharm disponible sur le bureau de l'ordinateur.
 
-* Changer le port "COM5" sur la ligne 14 et le baudrate si vous l'aviez changé auparavant dans le code de l'Arduino
+* Changez le port "COM5" sur la ligne 14 et le baudrate si vous l'aviez changé auparavant dans le code de l'Arduino
 
-* Lancer le code en appuyant sur le triangle vert en haut à droite
+* Débranchez l'arduino de l'odinateur et fermez l'Arduino IDE
+
+* Rebreanchez l'arduino dans l'odinateur en vous assurant que l'arduino IDE n'est plus lancé
+
+* Lancez le code en appuyant sur le triangle vert en haut à droite
+
+(En cas d'erreur avec le port, vérifiez bien toutes les étapes et si le problème persiste appelez votre tuteur)
 
 # Jouer ?
 
