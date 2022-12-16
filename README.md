@@ -23,10 +23,11 @@ _Jeu de serpent en python avec l'implémentation de arduino pour le déplacement
 
 ### Arduino (arduino.ino) :
 
-
-
+Arduino
 
 ### Python (main.py) :
+
+Python
 
 ##Fin / Ajout de votre code:
 
