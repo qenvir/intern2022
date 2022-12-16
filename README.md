@@ -10,11 +10,6 @@ _Jeu de serpent en python avec l'implémentation de arduino pour le déplacement
 * L'axe Y du joystick doit être situé sur le port A6
 * Le relais doit être placé sur le port A4. (Non obligatoire, il ne sers à rien dans le code du snake mais peut servir pour l'implémentation de divers modules pour rendre le jeu meilleur ou plus comprehensible avec des bruits lors de déclanchements d'objets dans le jeu, libres à vous de rajouter ce que vous voulez)
 
-* Le débit sur Serial est de 57600 bps. Vous devez donc calibrer votre console à 57600 bps pour pouvoir lire le contenu du Serial
-  1. `Tools>SerialMonitor`
-  2. `Sélectionner le bps`
-  3. `9600 baud>57600 baud`
-
 (Le tout reste quand même modifiable à tout moment dans le fichier `arduino.ino`)
 
 ## Python (main.py) :
@@ -27,6 +22,24 @@ _Jeu de serpent en python avec l'implémentation de arduino pour le déplacement
 ## Arduino (arduino.ino) :
 
 Arduino
+
+C'est fini du côté de Arduino, le code est prêt pour être lu par Python
+
+Si vous souhaitez savoir si votre code est correctement en route:
+
+* Ouvrez votre serial monitor dans l'onglet "Tools". Le débit du serial du code est de 57600 bps, Vous devez donc calibrer votre console à 57600 baud pour pouvoir lire le contenu du Serial. Il suffit de cliquer sur les paramètres des baud en haut à droite de la console est séléctionner 57600 baud.
+  1. `Tools>SerialMonitor`
+  2. `Sélectionner le bps`
+  3. `9600 baud>57600 baud`
+
+* Le code sortant doit être comme celui-ci:
+  ```
+  0,0
+  1,0
+  -1,0
+  0,1
+  0,-1
+  ```
 
 ## Python (main.py) :
 
