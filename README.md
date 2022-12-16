@@ -36,7 +36,7 @@ C'est fini du côté de Arduino, le code est prêt pour être lu par Python
 
 Si vous souhaitez savoir si votre code est correctement en route:
 
-* Ouvrez votre serial monitor dans l'onglet "Tools". Le débit du serial du code est de 57600 bps, Vous devez donc calibrer votre console à 57600 baud pour pouvoir lire le contenu du Serial. Il suffit de cliquer sur les paramètres des baud en haut à droite de la console est séléctionner 57600 baud.
+* Ouvrez votre serial monitor dans l'onglet "Tools". Le débit du serial du code est de 57600 bps, Vous devez donc calibrer votre console à 57600 baud pour pouvoir lire le contenu du Serial. Il suffit de cliquer sur les paramètres des baud en haut à droite de la console est sélectionner 57600 baud.
   1. `Tools>SerialMonitor`
   2. `Sélectionner le bps`
   3. `9600 baud>57600 baud`
