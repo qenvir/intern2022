@@ -21,8 +21,6 @@ _Jeu de serpent en python avec l'implémentation de arduino pour le déplacement
 
 ## Arduino (arduino.ino) :
 
-Arduino
-
 * Installez le fichier `arduino.ino` et mettez le dans un dossier présent sur le bureau.
 
 * Ouvrez ce dossier et ouvrez le fichier `arduino.ino`
@@ -56,6 +54,8 @@ Si vous souhaitez savoir si votre code est correctement en route:
 ## Python (main.py) :
 
 * Installez le fichier `main.py` et mettez le dans un dossier présent sur le bureau.
+
+
 
 # Fin / Ajout de votre code:
 
