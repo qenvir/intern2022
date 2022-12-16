@@ -1,4 +1,5 @@
-Python Snake Arduino Game
+**Python Snake Arduino Game**
+_Jeu de serpent en python avec l'implémentation de arduino pour le déplacement sur la carte avec un joystick_
 
 ## Instructions:
 
@@ -18,4 +19,4 @@ Python Snake Arduino Game
 * Le nom du port qui est lu est le port "COM5"
 * Ceci est à modifier sur la ligne 5 par le port qu'on a
 
-*Il suffit de lancer le code via PyCharm et l'interface Tkinter avec le jeu apparaitera
+Il suffit de lancer le code via PyCharm et l'interface Tkinter avec le jeu apparaitera
