@@ -1,3 +1,10 @@
+/**
+  * Copyright (c) 2022 and later Qenvi.
+  * Developed by Qenvi and affiliates which hold all
+  * intellectual property rights. Use of this software is subject
+  * to a specific license granted by Qenvi.
+  */
+
 #include <TimerOne.h>
 
 //int led4 = 4;
