@@ -13,6 +13,7 @@ from tkinter import Tk, Label
 
 msg_port_serie = serial.Serial(port='COM5', baudrate=57600, timeout=1.0)
 
+
 class MyWindow(Tk):
 
     def __init__(self):
