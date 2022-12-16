@@ -81,15 +81,15 @@ Pour jouer il suffit de prendre le joystick avec les cables vers le bas et de si
 
 # Idées
 
-## + Facile: Ecran de mort
+## Facile: Ecran de mort
 
 Lorsque le serpent meurt, un écran de mort s'affiche et permet de relancer le jeu à zero lorsqu'on appui sur une touche
 
-## ! Intermédiaire: Menu de démarrage
+## Intermédiaire: Menu de démarrage
 
 Lorqu'on lance le programme, on peut choisir quelques paramètres (couleur du serpent, vitesse, mode de jeu, nombre de pommes, couleure de la pomme...)
 
-## - Expert: Super-pouvoirs
+## Expert: Super-pouvoirs
 
 En partie, il y a une petite chance que un super-pouvoir d'une couleur qui défile apparaisse et donne un pouvoir d'invicibilité ou de vitesse au serpent pendant un temps donné
 
