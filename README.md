@@ -3,7 +3,7 @@
 _Jeu de serpent en python avec l'implémentation de arduino pour le déplacement sur la carte avec un joystick_
 
 # Informations:
-Attention il est nécéssaire d'instaler pip, pip serial et pip tkinter  avec les commandes "sudo apt install python3-pip" et "pip install serial" ainsi que "pip install Tkinter"
+Attention il est nécéssaire d'instaler pip, pip serial et pip tkinter  avec les commandes "sudo apt install python3-pip" et "pip install pyserial" ainsi que "pip install Tkinter"
 ## Arduino (arduino.ino) :
 
 * L'axe X du joystick doit être situé sur le port A5
